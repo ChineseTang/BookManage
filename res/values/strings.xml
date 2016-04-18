@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BookManage</string>
+    <string name="title">BookManage System</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">BookManage</string>
+    <string name="bookNumber">Number</string>
+    <string name="bookna">Name</string>
+    <string name="bookPr">Price</string>
+    <string name="update">update</string>
+    <string name="insert">insert</string>
+    <string name="select">select</string>
+    <string name="delete">delete</string>
+    <string name="back">Back</string>
+    <string name="insertbook">Insert Book Infor</string>
+    <string name="updatebook">Update Book Infor</string>
+    <string name="bookNum">book number:</string>
+    <string name="bookNumHint">input the book number</string>
+    <string name="bookName">book name:</string>
+    <string name="bookNameHint">input the book name</string>
+    <string name="bookPrice">book price:</string>
+    <string name="bookPriceHint">input the book Price</string>
+    <string name="title_activity_insert">InsertActivity</string>
+    <string name="title_activity_select">SelectActivity</string>
+    <string name="title_activity_delete">DeleteActivity</string>
+    <string name="title_activity_update">UpdateActivity</string>
+	<string name="deletebyname">please input the book name</string>
+</resources>
